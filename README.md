@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # CodeIgniter 4 Application Starter
 
 ## What is CodeIgniter?
@@ -72,3 +73,7 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 # POS-TFA3
 [TECHNICAL] [AI-ASSISTED] Technical Fomative Assessment 3: Module 3
 >>>>>>> c45d9a81f2e8043785a7fce3022615aef15935c4
+=======
+# Assessment-4
+Technical Fomative Assessment 4: Module 4
+>>>>>>> 6492f119bd607bb3f45bc2fd5539225ee7c57007
